@@ -1,1 +1,1 @@
-with pyton control spotify test app
+spotify voice controll app for windows using python test console application
